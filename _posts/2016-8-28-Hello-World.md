@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World! (again!)
+title: Hello Again, World!
 ---
 
 I'm back for more! Another semester, another blog. Here goes my foray into Downing’s CS373 (and hopes that I finish this blog this time)!
